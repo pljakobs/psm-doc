@@ -13,7 +13,7 @@ psm git playground
 	- now, using the same button, you can switch between the existing branches (they might be yours or those created by others)
 	- in your newly created branch, select the textfile.txt and click the edit button on the bottom right. Modify the file, enter your commit comment and press "commit" - you've just committed to your branch.
 	- if you switch between "main" and your new branch, you will see that textfile.txt is unchanged in "main" but has your new changes in your branch. That's how branches are used: you work on your own change set until you're happy with it, then you bring it back to the main branch. 
-	- you will also have noted that there now is a yellow box on top of the github buttons saying that "<your branch> had recent pushes x minutes ago and a big green button [Cinoare & pull request]" - if you click that button, you're preparing your changes for integratin into the main branch (or any branch you want to configure)
+	- you will also have noted that there now is a yellow box on top of the github buttons saying that "< your branch > had recent pushes x minutes ago and a big green button [Compare & pull request]" - if you click that button, you're preparing your changes for integratin into the main branch (or any branch you want to configure)
 	- when you create a pull request, there's a few things to do:
 		- first you will have to decide what to merge with what. That's what you do with the two drop down lists on top of the pull request.
 			- "base" is what you have originally branched off of or, more specifically, what you want to integrate with. It could be another intermediate branch, but for our case, it's just main.
