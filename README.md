@@ -5,8 +5,8 @@ psm git playground
 *Welcome PSMs*
 #let's do some basic git things
 
-- create an account at http://www.github.com
-- go to http://github.com/pljakobs/psm-doc (that's what you're looking at)
+- create an account at [github.com](https://github.com)
+- go to [github.com/pljakobs/psm-doc](https://github.com/pljakobs/psm-doc) (that's what you're looking at)
 - fork the project
 - you can use the built in github text editor, to edit textfile.md
 - check out the icon liste above the file box. On the very left, you see a button labeled "main" - that's the branch you're currently viewing.
