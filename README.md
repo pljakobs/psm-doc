@@ -24,4 +24,4 @@ psm git playground
 	- below your comment field, you'll see the actual diff(s) for the files you've changed with any number of commits. 
 		- not every change is automatically reflected in your repository, only those that you commit (either by the commit function in github when editing a text file or using the "git commit" command on your local repo)
 	- if you're happy with the changes, go ahead and create the pull request.
-
+and then thank Peter for this
